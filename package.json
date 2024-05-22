@@ -29,6 +29,6 @@
   "license": "(ISC OR GPL-3.0)",
   "dependencies": {
     "global": "latest",
-    "gulp-cli": "^2.3.0"
+    "gulp-cli": "^3.0.0"
   }
 }
